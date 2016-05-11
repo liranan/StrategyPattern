@@ -84,6 +84,3 @@ result
 这是第一个实现
 这是第二个实现
 这是第三个实现
-允许自由传播，但请保留页脚版权信息
-Copyright © 2008 Angus Young
-疯狂Java联盟：http://www.crazyjava.org 
